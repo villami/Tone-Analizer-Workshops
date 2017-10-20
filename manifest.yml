@@ -1,7 +1,7 @@
 applications:
 - disk_quota: 256M
   buildpack: nodejs_buildpack
-  host: chatbotMAVG
+  host: chatbotWatsonWork
   name: chatbotWatson
   command: node server.js
   path: .
